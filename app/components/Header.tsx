@@ -22,7 +22,7 @@ const Header = () => {
         </button>
         </div>
         <div>
-        <button className="bg-yellow-500 text-white py-2 px-4 rounded-md hover:bg-yellow-600">
+        <button onClick={} className="bg-yellow-500 text-white py-2 px-4 rounded-md hover:bg-yellow-600">
         🛒Cart</button>
 
         </div>
