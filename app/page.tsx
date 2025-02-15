@@ -13,9 +13,7 @@ export default function Home() {
     <Banner/>
     <Navbar/>
     <Carousel/>
-    
-    
-    
+     
     </div>
   );
 }
