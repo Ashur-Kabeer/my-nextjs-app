@@ -16,14 +16,14 @@ const Header = () => {
           className="w-80 p-2 rounded-md text-gray-600 border text-md"
         />
         </div>
-        <div><h3 className='text-gray-600'>☎Toll-Free:800-345-214</h3></div>
+        <div><h3 className='text-gray-700'>☎Toll-Free:800-345-214</h3></div>
         <div>
-        <button onClick={() => window.location.href = '/Login'} className="bg-yellow-600 text-gray-600 py-2 px-4 rounded-md hover:bg-yellow-500">
+        <button onClick={() => window.location.href = '/Login'} className="bg-gray-600 text-white py-2 px-4 rounded-md hover:bg-yellow-500">
         👨🏻‍💻Login
         </button>
         </div>
         <div>
-        <button className="bg-yellow-600 text-gray-600 py-2 px-4 rounded-md hover:bg-yellow-500">
+        <button className="bg-gray-600 text-white py-2 px-4 rounded-md hover:bg-yellow-500">
         🛒Cart</button>
 
         </div>

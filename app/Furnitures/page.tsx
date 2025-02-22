@@ -2,7 +2,7 @@ import React from 'react'
 import Header from '../components/Header'
 import Navbar from '../components/Navbar'
 
-const Electronics = () => {
+const Furnitures = () => {
   return (
     <div className="bg-gray-400">
         <Header/>
@@ -177,4 +177,4 @@ const Electronics = () => {
   )
 }
 
-export default Electronics
+export default Furnitures
